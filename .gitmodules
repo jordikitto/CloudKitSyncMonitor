@@ -1,0 +1,2 @@
+[submodule "CloudKitSyncMonitor"]
+	url = git@github.com:jordikitto/CloudKitSyncMonitor.git
